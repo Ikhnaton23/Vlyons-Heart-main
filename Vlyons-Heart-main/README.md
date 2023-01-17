@@ -2,7 +2,7 @@
 
 *Work In Progress*
 
-[Trello!](https://trello.com/b/pfUnOjzb/dating-app)
+
 
 # Dating/Chat Application 
 ## ***Description***
